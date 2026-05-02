@@ -1,0 +1,2 @@
+# OMORI-HTML
+Site for OMORI.EXE
